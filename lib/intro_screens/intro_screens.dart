@@ -1,0 +1,9 @@
+export 'on_boarding_first_page.dart';
+export 'on_boarding_second_page.dart';
+export 'log_in.dart';
+export 'sign_up.dart';
+export 'sign_up_process.dart';
+export 'forgot_password.dart';
+export 'payment_method.dart';
+export 'upload_preview.dart';
+export 'upload_photo.dart';
